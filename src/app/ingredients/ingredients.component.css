@@ -1,0 +1,9 @@
+
+.col-lg-12{
+  display: flex;
+  justify-content: space-between;
+}
+
+.price{
+  padding-top:40px ;
+}
